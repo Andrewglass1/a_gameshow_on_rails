@@ -10,6 +10,8 @@ Ta-boolean is played similar to Catch Phrase/Taboo/Heads Up:
 - The clue-giver cannot say the phrase, or the 'reserved words' listed on each card.
 - In the spirit of the game, the clue-giver should try to *explain* the concept, not use word-play or parallel concepts. e.g. if the word is 'gem', the guesser shouldn't say: "This word rhymes with hem" or "A precious stone".
 
+![taboolean_card18](https://user-images.githubusercontent.com/1313946/172186860-d6c86f12-f218-42e7-894e-736a60994c24.jpg)
+
 ### Daily Test-Doubles
 As a fun surprise, "Daily Test-Doubles" were inserted randomly into the game. These included audio from a 5-year-old asking curious questions with no single answer (e.g. "Whats coding?", "How much does the internet weigh", etc)
 
@@ -20,7 +22,11 @@ At RailsConf, Ta-boolean was played in a casual format with teams of two without
 Ta-boolean can be played in a similar format with any scoring rules. You could also use the printable cards and play without a screen.
 
 ## What's in this repo
-
+- 'printable_cards/' A directory with .pdf files for printing out 60 taboolean cards.  One file contains a design for printing the back of the cards
+- 'taboolean_cards/' A directory with .jpg files of 60 taboolean cards.
+- 'test_daily_doubles/' A directory with the audio for the 'test_daily_doubles'. This includes the kids asking questions, and humorous responses.
+- 'taboolean_card_template.indd' A InDesign template file which can be used to create more cards using an (InDesign Data Merge)[https://helpx.adobe.com/indesign/using/data-merge.html]
+- 'wordlist.xlsx' An excel file with the wordlist.
 
 
 ## Future development
