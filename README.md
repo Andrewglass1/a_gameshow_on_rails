@@ -22,11 +22,11 @@ At RailsConf, Ta-boolean was played in a casual format with teams of two without
 Ta-boolean can be played in a similar format with any scoring rules. You could also use the printable cards and play without a screen.
 
 ## What's in this repo
-- 'printable_cards/' A directory with .pdf files for printing out 60 taboolean cards.  One file contains a design for printing the back of the cards
-- 'taboolean_cards/' A directory with .jpg files of 60 taboolean cards.
-- 'test_daily_doubles/' A directory with the audio for the 'test_daily_doubles'. This includes the kids asking questions, and humorous responses.
-- 'taboolean_card_template.indd' A InDesign template file which can be used to create more cards using an [InDesign Data Merge](https://helpx.adobe.com/indesign/using/data-merge.html)
-- 'wordlist.xlsx' An excel file with the wordlist.
+- `printable_cards/` A directory with .pdf files for printing out 60 taboolean cards.  One file contains a design for printing the back of the cards
+- `taboolean_cards/` A directory with .jpg files of 60 taboolean cards.
+- `test_daily_doubles/` A directory with the audio for the 'test_daily_doubles'. This includes the kids asking questions, and humorous responses.
+- `taboolean_card_template.indd` A InDesign template file which can be used to create more cards using an [InDesign Data Merge](https://helpx.adobe.com/indesign/using/data-merge.html)
+- `wordlist.xlsx` An excel file with the wordlist.
 
 
 ## Future development
